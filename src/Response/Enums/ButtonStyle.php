@@ -2,7 +2,7 @@
 
 namespace cosmastech\IntercomAppBuilder\Response\Enums;
 
-final class Style
+final class ButtonStyle
 {
     public const STYLE_PRIMARY = 'primary';
     public const STYLE_SECONDARY = 'secondary';
