@@ -14,8 +14,8 @@ class AppResponse extends BaseIntercomComponent
 
     public ?Event $event;
 
-    public function toJson($options)
+    public function __construct(Canvas $canvas)
     {
-        return json_encode($this);
+        $this->canvas = $canvas;
     }
 }
