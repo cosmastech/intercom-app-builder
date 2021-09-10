@@ -2,13 +2,13 @@
 
 namespace cosmastech\IntercomAppBuilder\Response;
 
-use cosmastech\IntercomAppBuilder\Contracts\Jsonable;
 use cosmastech\IntercomAppBuilder\Response\Objects\Event;
 use cosmastech\IntercomAppBuilder\Response\Objects\Canvas;
 
-class AppResponse implements Jsonable
+class AppResponse extends BaseIntercomComponent
 {
     public Canvas $canvas;
+
     /** @var array|object */
     public $card_creation_options;
 

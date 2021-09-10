@@ -1,6 +1,6 @@
 <?php
 
-namespace cosmastech\IntercomAppBuilder\Response\ActionComponents;
+namespace cosmastech\IntercomAppBuilder\Response\ContentComponents\ActionComponents;
 
 /**
  * @see https://developers.intercom.com/canvas-kit-reference/reference/sheets-action

@@ -9,10 +9,6 @@ use cosmastech\IntercomAppBuilder\Response\ActionComponents\BaseActionComponent;
  */
 class Button extends BaseIntercomInteractiveComponent
 {
-    public const STYLE_PRIMARY = 'primary';
-    public const STYLE_SECONDARY = 'secondary';
-    public const STYLE_LINK = 'link';
-
     public string $type = 'button';
     public string $id;
     public string $label;
