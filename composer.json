@@ -4,6 +4,6 @@
     "type": "library",
     "require": {},
     "autoload": {
-        "psr-4": {"betrhealth\\IntercomAppBuilder\\": "src/"}
+        "psr-4": {"cosmastech\\IntercomAppBuilder\\": "src/"}
     }
 }
