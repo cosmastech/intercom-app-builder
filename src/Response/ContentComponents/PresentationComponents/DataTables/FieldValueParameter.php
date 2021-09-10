@@ -1,8 +1,8 @@
 <?php
 
-namespace cosmastech\IntercomAppBuilder\Response\PresentationComponents\DataTables;
+namespace cosmastech\IntercomAppBuilder\Response\ContentComponents\PresentationComponents\DataTables;
 
-use cosmastech\IntercomAppBuilder\Response\PresentationComponents\BaseIntercomPresentationComponent;
+use cosmastech\IntercomAppBuilder\Response\ContentComponents\PresentationComponents\BaseIntercomPresentationComponent;
 
 /**
  * @see https://developers.intercom.com/canvas-kit-reference/reference/data-table

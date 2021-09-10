@@ -1,6 +1,6 @@
 <?php
 
-namespace cosmastech\IntercomAppBuilder\Response\PresentationComponents;
+namespace cosmastech\IntercomAppBuilder\Response\ContentComponents\PresentationComponents;
 
 use cosmastech\IntercomAppBuilder\Response\ContentComponents\BaseContentComponent;
 
