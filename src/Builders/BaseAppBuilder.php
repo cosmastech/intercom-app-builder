@@ -7,7 +7,7 @@ use cosmastech\IntercomAppBuilder\Response\AppResponse;
 
 abstract class BaseAppBuilder implements Jsonable
 {
-    public AppResponse $response;
+    public ?AppResponse $response;
 
     abstract public function call();
 
