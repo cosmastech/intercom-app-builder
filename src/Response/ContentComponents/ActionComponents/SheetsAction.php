@@ -5,7 +5,7 @@ namespace cosmastech\IntercomAppBuilder\Response\ContentComponents\ActionCompone
 /**
  * @see https://developers.intercom.com/canvas-kit-reference/reference/sheets-action
  */
-class SheetsAction
+class SheetsAction extends BaseActionComponent
 {
     public string $type = 'sheet';
     public string $url;

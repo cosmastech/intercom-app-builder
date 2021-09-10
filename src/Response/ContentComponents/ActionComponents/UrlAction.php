@@ -5,7 +5,7 @@ namespace cosmastech\IntercomAppBuilder\Response\ContentComponents\ActionCompone
 /**
  * @see https://developers.intercom.com/canvas-kit-reference/reference/url-action
  */
-class UrlAction
+class UrlAction extends BaseActionComponent
 {
     public string $type = 'url';
     public string $url;
