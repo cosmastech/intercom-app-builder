@@ -2,8 +2,7 @@
 
 namespace cosmastech\IntercomAppBuilder\Response\ContentComponents\PresentationComponents;
 
-use cosmastech\IntercomAppBuilder\Response\PresentationComponents\DataTables\FieldValueParameter;
-use cosmastech\IntercomAppBuilder\Response\PresentationComponents\BaseIntercomPresentationComponent;
+use cosmastech\IntercomAppBuilder\Response\ContentComponents\PresentationComponents\DataTables\FieldValueParameter;
 
 /**
  * @see https://developers.intercom.com/canvas-kit-reference/reference/data-table

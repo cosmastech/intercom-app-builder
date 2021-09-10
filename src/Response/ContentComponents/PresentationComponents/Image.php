@@ -3,7 +3,7 @@
 namespace cosmastech\IntercomAppBuilder\Response\ContentComponents\PresentationComponents;
 
 use cosmastech\IntercomAppBuilder\Response\ContentComponents\ActionComponents\UrlAction;
-use cosmastech\IntercomAppBuilder\Response\PresentationComponents\BaseIntercomPresentationComponent;
+
 
 class Image extends BaseIntercomPresentationComponent
 {
