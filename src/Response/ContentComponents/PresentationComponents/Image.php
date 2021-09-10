@@ -4,7 +4,6 @@ namespace cosmastech\IntercomAppBuilder\Response\ContentComponents\PresentationC
 
 use cosmastech\IntercomAppBuilder\Response\ContentComponents\ActionComponents\UrlAction;
 
-
 class Image extends BaseIntercomPresentationComponent
 {
     public string $type = 'image';
