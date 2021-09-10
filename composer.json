@@ -1,6 +1,6 @@
 {
     "name": "cosmastech/intercom-app-builder",
-    "description": "Components for creating Intercom inbox/messenger apps",
+    "description": "Components for creating Intercom inbox/messenger apps.",
     "type": "library",
     "require": {},
     "autoload": {
