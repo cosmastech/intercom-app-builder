@@ -9,7 +9,7 @@ abstract class BaseAppBuilder implements Jsonable
 {
     public ?AppResponse $response;
 
-    abstract public function call();
+    abstract public function build();
 
     public function toJson($options)
     {
