@@ -1,18 +1,14 @@
 <?php
 
-namespace App\Intercom\Apps\Response\InteractiveComponents;
+namespace cosmastech\IntercomAppBuilder\Response\InteractiveComponents;
 
-use App\Intercom\Apps\Response\ActionComponents\BaseActionComponent;
+use cosmastech\IntercomAppBuilder\Response\ActionComponents\BaseActionComponent;
 
 /**
  * @see https://developers.intercom.com/canvas-kit-reference/reference/input
  */
 class Input extends BaseIntercomInteractiveComponent
 {
-    public const SAVE_STATE_UNSAVED = 'unsaved';
-    public const SAVE_STATE_SAVED = 'saved';
-    public const SAVE_STATE_FAILED = 'failed';
-
     public string $type = 'input';
     public string $id;
     public ?string $label;

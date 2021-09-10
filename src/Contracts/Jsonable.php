@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Intercom\Apps\Contracts;
+namespace cosmastech\IntercomAppBuilder\Contracts;
 
 interface Jsonable
 {

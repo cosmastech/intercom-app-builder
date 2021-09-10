@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Intercom\Apps\Response\Objects;
+namespace cosmastech\IntercomAppBuilder\Response\Objects;
 
 /**
  * @see https://developers.intercom.com/canvas-kit-reference/reference/content

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Intercom\Apps\Response\ActionComponents;
+namespace cosmastech\IntercomAppBuilder\Response\ActionComponents;
 
 abstract class BaseActionComponent
 {

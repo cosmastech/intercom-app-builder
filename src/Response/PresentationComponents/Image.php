@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Intercom\Apps\Response\PresentationComponents;
+namespace cosmastech\IntercomAppBuilder\Response\PresentationComponents;
 
-use App\Intercom\Apps\Response\ActionComponents\UrlAction;
+use cosmastech\IntercomAppBuilder\Response\ActionComponents\UrlAction;
 
 class Image extends BaseIntercomPresentationComponent
 {

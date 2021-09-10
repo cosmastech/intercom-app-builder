@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Intercom\Apps\Response\InteractiveComponents;
+namespace cosmastech\IntercomAppBuilder\Response\InteractiveComponents;
 
 use App\Intercom\Apps\Response\ActionComponents\BaseActionComponent;
 use App\Intercom\Apps\Response\InteractiveComponents\OptionParameter;
@@ -10,7 +10,6 @@ use App\Intercom\Apps\Response\InteractiveComponents\OptionParameter;
  */
 class SingleSelect extends BaseIntercomInteractiveComponent
 {
-
     public string $type = 'single-select';
     public string $id;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Intercom\Apps\Response\PresentationComponents;
+namespace cosmastech\IntercomAppBuilder\Response\PresentationComponents;
 
 /**
  * @see https://developers.intercom.com/canvas-kit-reference/reference/text

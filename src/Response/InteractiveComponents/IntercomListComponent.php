@@ -1,15 +1,14 @@
 <?php
 
-namespace App\Intercom\Apps\Response\InteractiveComponents;
+namespace cosmastech\IntercomAppBuilder\Response\InteractiveComponents;
 
-use App\Intercom\Apps\Response\InteractiveComponents\Lists\ItemParameter;
+use cosmastech\IntercomAppBuilder\Response\InteractiveComponents\Lists\ItemParameter;
 
 /**
  * @see https://developers.intercom.com/canvas-kit-reference/reference/list
  */
 class IntercomListComponent extends BaseIntercomInteractiveComponent
 {
-
     public string $type = 'list';
     public ?bool $disabled;
 
@@ -18,7 +17,6 @@ class IntercomListComponent extends BaseIntercomInteractiveComponent
 
     public function __construct(array $items)
     {
-
         $this->items = $items;
     }
 }

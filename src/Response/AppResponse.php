@@ -1,11 +1,10 @@
 <?php
 
-namespace App\Intercom\Apps\Response;
+namespace cosmastech\IntercomAppBuilder\Response;
 
-use App\Intercom\Apps\Contracts\Jsonable;
-use App\Intercom\Apps\Response\Objects\Event;
-use App\Intercom\Apps\Response\Objects\Canvas;
-
+use cosmastech\IntercomAppBuilder\Contracts\Jsonable;
+use cosmastech\IntercomAppBuilder\Response\Objects\Event;
+use cosmastech\IntercomAppBuilder\Response\Objects\Canvas;
 
 class AppResponse implements Jsonable
 {

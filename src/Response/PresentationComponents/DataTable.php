@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Intercom\Apps\Response\PresentationComponents;
+namespace cosmastech\IntercomAppBuilder\Response\PresentationComponents;
 
 use App\Intercom\Apps\Response\PresentationComponents\DataTables\FieldValueParameter;
 

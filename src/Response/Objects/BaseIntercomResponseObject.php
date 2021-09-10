@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Intercom\Apps\Response\Objects;
+namespace cosmastech\IntercomAppBuilder\Response\Objects;
 
-use App\Intercom\Apps\Contracts\Jsonable;
+use cosmastech\IntercomAppBuilder\Contracts\Jsonable;
 
 abstract class BaseIntercomResponseObject implements Jsonable
 {

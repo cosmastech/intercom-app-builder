@@ -1,6 +1,8 @@
 <?php
 
-namespace App\Intercom\Apps\Response\InteractiveComponents;
+namespace cosmastech\IntercomAppBuilder\Response\InteractiveComponents\Options;
+
+use cosmastech\IntercomAppBuilder\Response\InteractiveComponents\BaseIntercomInteractiveComponent;
 
 /**
  * @see https://developers.intercom.com/canvas-kit-reference/reference/single-select

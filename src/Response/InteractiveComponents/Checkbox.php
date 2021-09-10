@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Intercom\Apps\Response\InteractiveComponents;
+namespace cosmastech\IntercomAppBuilder\Response\InteractiveComponents;
 
 use App\Intercom\Apps\Response\InteractiveComponents\OptionParameter;
 
@@ -9,7 +9,6 @@ use App\Intercom\Apps\Response\InteractiveComponents\OptionParameter;
  */
 class Checkbox extends BaseIntercomInteractiveComponent
 {
-
     public string $type = 'checkbox';
     public string $id;
 

@@ -1,7 +1,6 @@
 <?php
 
-namespace App\Intercom\Apps\Response\ActionComponents;
-
+namespace cosmastech\IntercomAppBuilder\Response\ActionComponents;
 
 /**
  * @see https://developers.intercom.com/canvas-kit-reference/reference/submit-action

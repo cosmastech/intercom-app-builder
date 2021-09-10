@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Intercom\Apps\Response\Enums;
+namespace cosmastech\IntercomAppBuilder\Response\Enums;
 
 final class SaveState
 {
