@@ -2,12 +2,8 @@
 
 namespace cosmastech\IntercomAppBuilder\Response\Objects;
 
-use cosmastech\IntercomAppBuilder\Contracts\Jsonable;
+use cosmastech\IntercomAppBuilder\Response\BaseIntercomComponent;
 
-abstract class BaseIntercomResponseObject implements Jsonable
+abstract class BaseIntercomResponseObject extends BaseIntercomComponent
 {
-    public function toJson($options)
-    {
-        return json_encode($this, $options);
-    }
 }
