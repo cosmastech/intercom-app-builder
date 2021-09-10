@@ -1,0 +1,9 @@
+{
+    "name": "cosmastech/intercom-app-builder",
+    "description": "Components for creating Intercom inbox/messenger apps",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {"betrhealth\\IntercomAppBuilder\\": "src/"}
+    }
+}
