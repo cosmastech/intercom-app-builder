@@ -10,7 +10,7 @@ use cosmastech\IntercomAppBuilder\Response\ContentComponents\PresentationCompone
 class Text extends BaseIntercomPresentationComponent
 {
     public string $type = 'text';
-    public $id;
+    public ?string $id;
     public string $text;
     public ?string $align;
     public ?string $style;
