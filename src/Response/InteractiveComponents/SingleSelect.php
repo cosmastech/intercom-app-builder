@@ -2,8 +2,8 @@
 
 namespace cosmastech\IntercomAppBuilder\Response\InteractiveComponents;
 
-use App\Intercom\Apps\Response\ActionComponents\BaseActionComponent;
-use App\Intercom\Apps\Response\InteractiveComponents\OptionParameter;
+use cosmastech\IntercomAppBuilder\Response\ActionComponents\BaseActionComponent;
+use cosmastech\IntercomAppBuilder\Response\InteractiveComponents\Options\OptionParameter;
 
 /**
  * @see https://developers.intercom.com/canvas-kit-reference/reference/single-select
