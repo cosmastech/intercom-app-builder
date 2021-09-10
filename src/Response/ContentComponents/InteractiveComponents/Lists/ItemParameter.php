@@ -1,9 +1,9 @@
 <?php
 
-namespace cosmastech\IntercomAppBuilder\Response\InteractiveComponents\Lists;
+namespace cosmastech\IntercomAppBuilder\Response\ContentComponents\InteractiveComponents\Lists;
 
-use cosmastech\IntercomAppBuilder\Response\ActionComponents\BaseActionComponent;
-use cosmastech\IntercomAppBuilder\Response\InteractiveComponents\BaseIntercomInteractiveComponent;
+use cosmastech\IntercomAppBuilder\Response\ContentComponents\ActionComponents\BaseActionComponent;
+use cosmastech\IntercomAppBuilder\Response\ContentComponents\InteractiveComponents\BaseIntercomInteractiveComponent;
 
 class ItemParameter extends BaseIntercomInteractiveComponent
 {

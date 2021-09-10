@@ -1,8 +1,8 @@
 <?php
 
-namespace cosmastech\IntercomAppBuilder\Response\InteractiveComponents;
+namespace cosmastech\IntercomAppBuilder\Response\ContentComponents\InteractiveComponents;
 
-use cosmastech\IntercomAppBuilder\Response\ActionComponents\BaseActionComponent;
+use cosmastech\IntercomAppBuilder\Response\ContentComponents\ActionComponents\BaseActionComponent;
 
 /**
  * @see https://developers.intercom.com/canvas-kit-reference/reference/button

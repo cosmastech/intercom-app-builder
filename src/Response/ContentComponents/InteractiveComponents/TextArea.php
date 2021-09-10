@@ -1,6 +1,8 @@
 <?php
 
-namespace cosmastech\IntercomAppBuilder\Response\InteractiveComponents;
+namespace cosmastech\IntercomAppBuilder\Response\ContentComponents\InteractiveComponents;
+
+use cosmastech\IntercomAppBuilder\Response\InteractiveComponents\BaseIntercomInteractiveComponent;
 
 /**
  * @see https://developers.intercom.com/canvas-kit-reference/reference/text-area
