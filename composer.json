@@ -3,7 +3,9 @@
     "description": "Components for creating Intercom inbox/messenger apps.",
     "version":"0.0.1",
     "type": "library",
-    "require": {},
+    "require": {
+        "php": ">=7.4"
+    },
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {"cosmastech\\IntercomAppBuilder\\": "src/"}
