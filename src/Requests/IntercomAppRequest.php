@@ -14,7 +14,7 @@ class IntercomAppRequest extends FlexibleDataTransferObject
 
     public ?object $conversation;
 
-    public ?object $card_creation_options;
+    public $card_creation_options;
 
     public ?object $contact;
 
