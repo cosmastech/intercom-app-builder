@@ -6,7 +6,7 @@ use Spatie\DataTransferObject\FlexibleDataTransferObject;
 
 class IntercomAppRequest extends FlexibleDataTransferObject
 {
-    public string $workspace_id;
+    public ?string $workspace_id;
 
     public ?object $admin;
 
